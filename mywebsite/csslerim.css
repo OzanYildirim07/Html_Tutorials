@@ -1,0 +1,128 @@
+  
+    .kutu1{
+        width: 600px;
+        height: 90px;
+        display: inline-block;
+        margin-top: -45px;
+       
+        
+    }
+  
+/* link=ilk hali a:link{}
+hover= üzerine geldiğinde 
+active=üstüne tıkladıgında
+visited= ziyaret ettiğinde*/
+ 
+    .kutu2{
+        width: 290px;
+        height: 60px;
+        display: block;
+        margin-top: 260px;
+        margin-bottom: 20px;
+    }
+    
+  
+ 
+    .kutuf{
+        
+        width: 900px;
+        height: 20px;
+        display: block;
+        margin-top: 200px;
+        margin-left: 300px;
+        margin-bottom: -3px;
+        
+    }
+  
+ 
+    #kututbl2{
+        background-color: blue;
+        
+        width: 400px;
+        height: 90px;
+        display: inline;
+        margin-left: 1100px;
+        margin-top: 170px;
+        
+    }
+    #kututbl2 tr:hover{
+        background-color: black;
+    }
+  
+ 
+    .kutursm{
+        
+        width: 55px;
+        height: 55px;
+        display: inline;
+        margin-left: 1450px;
+       
+        
+        
+    }
+  
+ 
+    .kutuvdo{
+        
+        width: 10px;
+        height: 10px;
+        display: block;
+        margin-left: 573px;
+       
+        
+       }  
+
+.blk
+{
+    display: block;
+    width: 1000px;
+    height: 2px;
+}
+        
+
+.buton{
+    width: 180px;
+    height: 47px;
+    background-color:rgb(241, 158, 4);
+    margin-left: 1300px;
+    border-radius: 5px;
+    text-align: center;
+    margin-bottom: -10px;
+    margin-top: -70px;
+    
+
+   
+    
+}
+
+.buton2{
+    width: 180px;
+    height: 47px;
+    background-color:rgb(241, 158, 4);
+    margin-left: 1300px;
+    border-radius: 5px;
+    text-align: center;
+    
+    
+    
+    
+}
+
+.buton3{
+    width: 50px;
+    height: 50px;
+    
+    margin-left: 1350px;
+    margin-top: -75px;
+    margin-bottom: 25px;
+    
+   
+    
+    
+    
+    
+}
+      
+        
+   
+  
